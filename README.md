@@ -1,4 +1,4 @@
-Hello World its SUDArshan Malla.
+Hello World its Sudarshan Malla.
 
 
-sudapersonalportfolio.vercel.app
+sudamalla.vercel.app
